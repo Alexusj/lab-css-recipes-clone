@@ -1,0 +1,14 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+body {
+    margin: 0;
+}
+.background {
+    background-image: url(../images/apple-pie.jpg);
+    display: flex;
+    background-size: cover;
+    height: 35em;
+    justify-content: center;
+    align-items: center;
